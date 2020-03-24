@@ -30,7 +30,7 @@
           </li>
         <?php } ?>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#about">ABOUT</a>
+            <a class="nav-link js-scroll-trigger" href="About.php">ABOUT</a>
           </li>
           <?php 
             if(isset($_SESSION['username'])){

@@ -10,7 +10,20 @@ body{
     -moz-animation: AnimationName 30s ease infinite;
     animation: AnimationName 30s ease infinite;
 }
+#cool {
+animation: mymove 5s infinite;
+font-size: 100px;
+}
 
+@keyframes mymove {
+    0%{color:red;}
+    25%{color:blue;}
+    50%{color:green;}
+    75%{color:black;}
+    100%{color:red;}
+/* from {color: red;}
+to {color: blue;} */
+}
 @-webkit-keyframes AnimationName {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
