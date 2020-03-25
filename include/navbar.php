@@ -47,10 +47,10 @@
                    </li>';
             }else{
               echo '<li class="nav-item">
-                      <a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#login" >Login</a>
+                      <a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#login" href="#" >Login</a>
                     </li>';
               echo '<li class="nav-item">
-                      <a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#register">Register</a>
+                      <a class="nav-link js-scroll-trigger" data-toggle="modal" data-target="#register" href="#" >Register</a>
                     </li>';
             }
           ?>
