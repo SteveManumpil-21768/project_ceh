@@ -260,7 +260,7 @@
         <div class="container">
             <div class="row portfolio-item">
                 <div class=" col-md-6"style="background-color:#212429;border-style: solid; border-color: white;">
-                    <img class="img-fluid" src="img/steven.jpg" alt="foto" style="width:600px;">
+                    <img class="img-fluid" src="img/steven.jpg" alt="foto" style=" "   width="600px;" height="560px;>
                     <h1 style="text-align:center;">Steven Wijaya</h1>
                     <button  type="button" class=" btn btn-lg btn-dark collapsed" data-toggle="collapse" data-target="#djasen" style="width:100%;">Alasan Masuk IT</button>
                     <div id="djasen" class="collapse">
@@ -268,7 +268,7 @@
                     </div>
                 </div>
                 <div class=" col-md-6"style="background-color:#212429;border-style: solid; border-color: white;">
-                    <img class="img-fluid" src="img/andre.jpg" alt="foto" style="">
+                    <img class="img-fluid" src="img/andre.jpg" alt="foto" style=" "   width="600px;" height="560px;>
                     <h1 style="text-align:center;">Andreas Agustinus</h1>
                     <button  type="button" class=" btn btn-lg btn-dark collapsed" data-toggle="collapse" data-target="#steven" style="width:100%;">Alasan Masuk IT</button>
                     <div id="steven" class="collapse">
@@ -276,7 +276,7 @@
                     </div>
                 </div>
                 <div class=" col-md-6"style="background-color:#212429;border-style: solid; border-color: white;">
-                    <img class="img-fluid" src="img/steve.jpg" alt="foto" style="">
+                    <img class="img-fluid" src="img/steve.jpg" alt="foto" style=" "   width="600px;" height="560px; >
                     <h1 style="text-align:center;">Steve Manumpil</h1>
                     <button  type="button" class=" btn btn-lg btn-dark collapsed" data-toggle="collapse" data-target="#steve" style="width:100%;">Alasan Masuk IT</button>
                     <div id="steve" class="collapse">
@@ -284,7 +284,7 @@
                     </div>
                 </div>
                 <div class=" col-md-6"style="background-color:#212429;border-style: solid; border-color: white;">
-                    <img class="img-fluid" src="img/dd.jpg" alt="foto" style="">
+                    <img class="img-fluid" src="img/dd.jpg" alt="foto" style=" "   width="600px;" height="560px;>
                     <h1 style="text-align:center;">Djasen Tjendry</h1>
                     <button  type="button" class=" btn btn-lg btn-dark collapsed" data-toggle="collapse" data-target="#andre" style="width:100%;">Alasan Masuk IT</button>
                     <div id="andre" class="collapse">
