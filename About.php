@@ -33,11 +33,7 @@
                     <h1 style="text-align:center;">Steven Wijaya</h1>
                     <button  type="button" class=" btn btn-lg btn-dark collapsed" data-toggle="collapse" data-target="#djasen" style="width:100%;">Alasan Masuk IT</button>
                     <div id="djasen" class="collapse">
-                        <p>jadi awalnya pas SMA saya punya laptop terus rada ngelag gitu udah dibawa ke beberapa 
-                            toko tapi mereka ga ngerti kenapa bisa ngelek, jadi saya berniat masuk informatika untuk mencari 
-                            tahu kenapa laptop saya bisa ngelag, saat udh masuk informatika ternyata yang di pelajari itu beda dari 
-                            yang saya harapkan ternyata belajar ngoding bikin software, dan ternyata laptop saya ngelag karena 
-                            windows bajakkan :( , dan saya skrg terjebak didunia perkodingngan....HELP !!</p>
+                        <p>bosen sekolah samping kuburan melulu</p>
                     </div>
                 </div>
                 <div class=" col-md-6"style="background-color:#212429;border-style: solid; border-color: white;">
